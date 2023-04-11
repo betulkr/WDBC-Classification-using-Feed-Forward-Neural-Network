@@ -1,6 +1,4 @@
-# A Neural Network Architecture Combining Gated Recurrent Unit (GRU) and
-# Support Vector Machine (SVM) for Intrusion Detection in Network Traffic Data
-# Copyright (C) 2017  Abien Fred Agarap
+# Copyright (C) 2021  Fatma Betul Kara Ardac
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published
@@ -22,7 +20,7 @@ from __future__ import division
 from __future__ import print_function
 
 __version__ = "0.3.9"
-__author__ = "Abien Fred Agarap"
+__author__ = "Fatma Betul Kara Ardac"
 
 import numpy as np
 import os
