@@ -1,4 +1,4 @@
-# Copyright 2017 Abien Fred Agarap
+# Copyright 2021 Fatma Betul Kara Ardac
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -18,7 +18,7 @@ from __future__ import division
 from __future__ import print_function
 
 __version__ = "0.1.0"
-__author__ = "Abien Fred Agarap"
+__author__ = "Fatma Betul Kara Ardac"
 
 from models.linear_regression import LinearRegression
 from sklearn import datasets
